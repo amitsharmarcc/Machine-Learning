@@ -2,3 +2,6 @@
 weight=int(input("enter weight: "))
 weight= weight+8;
 print(weight)
+
+
+this is new line now
